@@ -1,7 +1,7 @@
 # Testeando el archivo bohrsimulation.
 # Importación de librerías 
 import pytest
-from bohrsimulation import *  
+from simulation import *  
 
 def test_circle_creation():
     # Datos de prueba
